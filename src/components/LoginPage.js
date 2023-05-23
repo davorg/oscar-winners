@@ -17,7 +17,7 @@ const LoginPage = () => {
     <div>
       <h2>Login</h2>
       <GoogleLogin
-        clientId="YOUR_GOOGLE_CLIENT_ID" 
+        clientId="182140765984-lrsiqsl3i82b06de3kasmtsl9umjtc9q.apps.googleusercontent.com" 
         buttonText="Login with Google"
         onSuccess={responseGoogle}
         onFailure={responseGoogle}
